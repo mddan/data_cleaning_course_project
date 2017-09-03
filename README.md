@@ -2,13 +2,13 @@
 
 ## Contents of this repository
 
-- 'README.md : Overview of the project, analysis files and relevant data sets.
+- 'README.md' : Overview of the project, analysis files and relevant data sets.
 
-- 'run_analysis.R : R script which extracts and transforms the analysis files to create the tidy data set.
+- 'run_analysis.R' : R script which extracts and transforms the analysis files to create the tidy data set.
 
-- 'tidydata.txt : Final output data set which is created by the R script.
+- 'tidydata.txt' : Final output data set which is created by the R script.
 
-- 'CodeBook.md : Code book which describes the variables, data, and transformations performed to generate the final tidy dataset.
+- 'CodeBook.md' : Code book which describes the variables, data, and transformations performed to generate the final tidy dataset.
 
 ## Purpose (as per Coursera)
 
