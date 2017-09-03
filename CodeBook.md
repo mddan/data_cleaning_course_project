@@ -43,7 +43,7 @@ Characteristics of the feature measurements :
 
 The combinations of METHODS, DIRECTIONS, CLASSIFICATIONS, and TYPES, result in the following feature variables in the dataset:
 
-Time-domain body acceleration; mean and standard deviation (for each X, Y, Z direction):
+- Time-domain body acceleration; mean and standard deviation (for each X, Y, Z direction):
 
 timeBodyAccelerometermeanX
 timeBodyAccelerometermeanY
@@ -52,7 +52,7 @@ timeBodyAccelerometerstdX
 timeBodyAccelerometerstdY
 timeBodyAccelerometerstdZ
 
-Time-domain gravity acceleration; mean and standard deviation (for each X, Y, Z direction):
+- Time-domain gravity acceleration; mean and standard deviation (for each X, Y, Z direction):
 
 timeGravityAccelerometermeanX
 timeGravityAccelerometermeanY
@@ -61,7 +61,7 @@ timeGravityAccelerometerstdX
 timeGravityAccelerometerstdY
 timeGravityAccelerometerstdZ
 
-Time-domain body acceleration jerk; mean and standard deviation (for each X, Y, Z direction):
+- Time-domain body acceleration jerk; mean and standard deviation (for each X, Y, Z direction):
 
 timeBodyAccelerometerJerkmeanX
 timeBodyAccelerometerJerkmeanY
@@ -70,7 +70,7 @@ timeBodyAccelerometerJerkstdX
 timeBodyAccelerometerJerkstdY
 timeBodyAccelerometerJerkstdZ
 
-Time-domain body gyroscope values; mean and standard deviation (for each X, Y, Z direction):
+- Time-domain body gyroscope values; mean and standard deviation (for each X, Y, Z direction):
 
 timeBodyGyroscopemeanX
 timeBodyGyroscopemeanY
@@ -79,7 +79,7 @@ timeBodyGyroscopestdX
 timeBodyGyroscopestdY
 timeBodyGyroscopestdZ
 
-Time-domain body gyroscope jerk values; mean and standard deviation (for each X, Y, Z direction):
+- Time-domain body gyroscope jerk values; mean and standard deviation (for each X, Y, Z direction):
 
 timeBodyGyroscopeJerkmeanX
 timeBodyGyroscopeJerkmeanY
@@ -88,32 +88,32 @@ timeBodyGyroscopeJerkstdX
 timeBodyGyroscopeJerkstdY
 timeBodyGyroscopeJerkstdZ
 
-Time-domain magnitude of body acceleration; mean and standard deviation:
+- Time-domain magnitude of body acceleration; mean and standard deviation:
 
 timeBodyAccelerometerMagnitudemean
 timeBodyAccelerometerMagnitudestd
 
-Time-domain magnitude of gravity acceleration; mean and standard deviation:
+- Time-domain magnitude of gravity acceleration; mean and standard deviation:
 
 timeGravityAccelerometerMagnitudemean
 timeGravityAccelerometerMagnitudestd
 
-Time-domain magnitude of body acceleration jerk; mean and standard deviation:
+- Time-domain magnitude of body acceleration jerk; mean and standard deviation:
 
 timeBodyAccelerometerJerkMagnitudemean
 timeBodyAccelerometerJerkMagnitudestd
 
-Time-domain magnitude of body gyroscope values; mean and standard deviation:
+- Time-domain magnitude of body gyroscope values; mean and standard deviation:
 
 timeBodyGyroscopeMagnitudemean
 timeBodyGyroscopeMagnitudestd
 
-Time-domain magnitude of body gyroscope jerk values; mean and standard deviation:
+- Time-domain magnitude of body gyroscope jerk values; mean and standard deviation:
 
 timeBodyGyroscopeJerkMagnitudemean
 timeBodyGyroscopeJerkMagnitudestd
 
-Frequency-domain body acceleration; mean and standard deviation (for each X, Y, Z direction):
+- Frequency-domain body acceleration; mean and standard deviation (for each X, Y, Z direction):
 
 frequencyBodyAccelerometermeanX
 frequencyBodyAccelerometermeanY
@@ -122,7 +122,7 @@ frequencyBodyAccelerometerstdX
 frequencyBodyAccelerometerstdY
 frequencyBodyAccelerometerstdZ
 
-Frequency-domain body acceleration jerk; mean and standard deviation (for each X, Y, Z direction):
+- Frequency-domain body acceleration jerk; mean and standard deviation (for each X, Y, Z direction):
 
 frequencyBodyAccelerometerJerkmeanX
 frequencyBodyAccelerometerJerkmeanY
@@ -131,7 +131,7 @@ frequencyBodyAccelerometerJerkstdX
 frequencyBodyAccelerometerJerkstdY
 frequencyBodyAccelerometerJerkstdZ
 
-Frequency-domain body gyroscope values; mean and standard deviation (for each X, Y, Z direction):
+- Frequency-domain body gyroscope values; mean and standard deviation (for each X, Y, Z direction):
 
 frequencyBodyGyroscopemeanX
 frequencyBodyGyroscopemeanY
@@ -140,22 +140,22 @@ frequencyBodyGyroscopestdX
 frequencyBodyGyroscopestdY
 frequencyBodyGyroscopestdZ
 
-Frequency-domain magniture body acceleration; mean and standard deviation:
+- Frequency-domain magniture body acceleration; mean and standard deviation:
 
 frequencyBodyAccelerometerMagnitudemean
 frequencyBodyAccelerometerMagnitudestd
 
-Frequency-domain magniture body acceleration jerk; mean and standard deviation:
+- Frequency-domain magniture body acceleration jerk; mean and standard deviation:
 
 frequencyBodyAccelerometerJerkMagnitudemean
 frequencyBodyAccelerometerJerkMagnitudestd
 
-Frequency-domain magniture body gyroscope values; mean and standard deviation:
+- Frequency-domain magniture body gyroscope values; mean and standard deviation:
 
 frequencyBodyGyroscopeMagnitudemean
 frequencyBodyGyroscopeMagnitudestd
 
-Frequency-domain magniture body gyroscope jerk values; mean and standard deviation:
+- Frequency-domain magniture body gyroscope jerk values; mean and standard deviation:
 
 frequencyBodyGyroscopeJerkMagnitudemean
 frequencyBodyGyroscopeJerkMagnitudestd
